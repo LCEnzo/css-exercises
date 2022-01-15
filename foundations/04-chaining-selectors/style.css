@@ -1,0 +1,17 @@
+html {
+	background-color: #2a2a2a;
+}
+
+img {
+	margin: 2.5%;
+}
+
+.avatar.proportioned {
+	height: auto;
+	width: 300px;
+}
+
+.avatar.distorted {
+	height: 400px;
+	width: 200px;
+}
