@@ -1,0 +1,11 @@
+html {
+	background-color: #2a2a2a;
+	color: white;
+}
+
+.container > p {
+	background-color: yellow;
+	color: red;
+	text-align: center;
+	font-size: 20px;
+}
